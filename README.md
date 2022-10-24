@@ -8,3 +8,5 @@ Install instructions.
 
 1. helm repo add chart-repo https://hogwater.github.io/baeldung-helm-demo/gh-pages
 2. helm install hello-world chart-repo/hello-world
+
+Note: The application isn't accessible since it's not exposed to the public. Work in progress.
